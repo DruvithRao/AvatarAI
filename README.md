@@ -1,0 +1,2 @@
+# AvatarAI
+A AI application
